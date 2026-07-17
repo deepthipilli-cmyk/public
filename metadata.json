@@ -1,6 +1,0 @@
-{
-  "name": "Weather Intelligence App",
-  "description": "Search for a city to get current weather, a 7-day forecast, and AI-powered planning recommendations based on the weather conditions.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
